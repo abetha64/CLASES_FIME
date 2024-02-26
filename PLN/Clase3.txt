@@ -1,0 +1,15 @@
+Estos dispositivos estpán conectados y comparten una sola dirección de almacenamiento de memoria.
+
+a) Paso de mensajes
+*b)memoria virtual compartida
+c)procesador compartido
+d) pantalla compartida 
+
+Este enfoque se basa en un paso continuo de datos permitiendo que ninguna operación sea interrumpida mientras la ejecución de otra está en proceso.
+
+A) memoria virtual compartida
+b)modelo Von Newman
+*c)Maquinas de flujo de datos
+d) Maquina de tránsito de datos. 
+
+
